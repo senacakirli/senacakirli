@@ -28,11 +28,6 @@
 <a href="https://unity.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="50" /></a>  
 </div>  
 
-<br/>  
-
-
-## My Skill Set  
-<table><tr><td valign="top" width="50%">
 
 ## connect with me  
   
@@ -42,25 +37,8 @@
 </a>  
 
 
-</td><td valign="top" width="50%">
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=senacakirli&hide_border=true&layout=compact" align="left" />
 
 
 </td></tr></table>  
 
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>

@@ -1,7 +1,7 @@
 # <div align="center">hi, i am sena!</div>  
   
 
-### <div align="center">computer engineer</div>  
+### <div align="center">software engineer</div>  
   
 
 - i experienced in game and front-end development.  

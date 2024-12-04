@@ -27,7 +27,7 @@
 </div>  
 
 
-## connect with me  
+## connect  
   
 
 <a href="https://linkedin.com/in/senacakirli/" target="_blank">
